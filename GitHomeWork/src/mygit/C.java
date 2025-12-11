@@ -3,5 +3,6 @@ package mygit;
 public class C {
 	public static void main(String[] args) {
 		System.out.println("C.java 초기버전임");
+		System.out.println("c.java alice버전!");
 	}
 }
